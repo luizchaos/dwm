@@ -1,7 +1,5 @@
 # My dwm (dynamic window manager) build
 
-![Screenshot2020-08-2521:23:29](https://user-images.githubusercontent.com/65104127/91240776-4a010180-e719-11ea-96b5-78f0faba6f43.png)
-
 Dwm is a fast, small, and dynamic window manager for X. Dwm is created by the [suckless](https://suckless.org) team.  This is my build of dwm.  I used some patches in this build to make dwm more like me. I based my personal build on DistroTube's dwm build.  The patches I added to this build include:
 + alpha (for transparency)
 + attachaside (new clients appear in the stack rather than as the master)
@@ -31,11 +29,11 @@ Also, if you are building this on an Ubuntu-based system, you need to install li
 
 Download the source code from this repository, or even better, use a git clone:
 
-	git clone https://github.com/brunomontezano/dwm-bruno
-	cd dwm-bruno
+	git clone https://github.com/luizchaos/dwm.git
+	cd dwm
     sudo make clean install
 	
-NOTE: Installing dwm-bruno will overwrite your existing dwm installation if you have one.
+NOTE: Installing dwm will overwrite your existing dwm installation if you have one.
 	
 # The Essential Keybindings
 
