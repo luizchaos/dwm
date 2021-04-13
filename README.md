@@ -17,7 +17,7 @@ Dwm is a fast, small, and dynamic window manager for X. Dwm is created by the [s
 + ttf-joypixels (Make emojis on dwmblocks possible)
 + [st](https://github.com/luizchaos/st) (The bindings summon st terminal emulator)
 + [dmenu](https://github.com/luizchaos/dmenu) (Same as above)
-+ [tabbed](https://github.com/brunomontezano/tabbed-bruno) (There are bindings for it)
++ [tabbed](https://github.com/luizchaos/tabbed) (There are bindings for it)
 
 Also, you will need to add the following from the AUR (Arch User Repository):
 + nerd-fonts-mononoki (optional)
