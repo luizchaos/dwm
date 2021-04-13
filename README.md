@@ -89,4 +89,4 @@ You will need to create this file and the directory that it is located.  An exam
 	dwmblocks &
     ```
 	
-The example autostart.sh above launches the picom compositor, sets the wallpaper with feh with an image located at $HOME/img/wallpaper.jpg and launches dwmblocks to add some widgets to our dwm panel.  Obviously, you would need to install picom and feh to use those programs in your autostart.  And you would need to install [dwmblocks](https://github.com/brunomontezano/dotfiles/tree/master/dwmblocks) to use it.  To use my dwmblocks, you also need to download the scripts found [here](https://github.com/brunomontezano/dotfiles/tree/master/.local/bin).
+The example autostart.sh above launches the picom compositor, sets the wallpaper with feh with an image located at $HOME/img/wallpaper.jpg and launches dwmblocks to add some widgets to our dwm panel.  Obviously, you would need to install picom and feh to use those programs in your autostart.  And you would need to install [dwmblocks](https://github.com/luizchaos/dwmblocks) to use it.  To use my dwmblocks, you also need to download the scripts found [here](https://github.com/luizchaos/bash-scripts).
